@@ -4,4 +4,4 @@ A TEXT - EDITOR in Python Using Tkinter Liabrary. This is only for Education Pur
 
 Currently an ongoing Project
 
-Kindly suggest if any changes needs to be done.
+Kindly advice for suggestions.
